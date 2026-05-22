@@ -5,6 +5,12 @@ I'm a programmer, that's how I see it.
 
 ---
 
+## Projects
+
+ConsoleMenuPy => https://github.com/AlexanderProduction/ConsoleMenuPy
+
+---
+
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/AlexanderProduction)
 &nbsp;
